@@ -1,4 +1,4 @@
-# Agentic RAG
+# Agentic RAG in Action
 
 Link to the video walk-through:  
 https://youtu.be/K6wpRkJrcpM
